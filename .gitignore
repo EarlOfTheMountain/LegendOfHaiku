@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.exe.a
+
+# Build directories (common build systems)
+build/
+cmake-build-*/
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+.genio.yaml
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.cbp
+*.layout
+
+# Debugging
+*.gdb_history
+core
+core.*
+
+# Dependency/package managers
+*.a
+*.lib
+
+# Test outputs
+*.gcda
+*.gcno
