@@ -6,15 +6,5 @@
 #define _H
 
 
-#include <SupportDefs.h>
-
-
-class {
-public:
-
-private:
-
-};
-
 
 #endif // _H
